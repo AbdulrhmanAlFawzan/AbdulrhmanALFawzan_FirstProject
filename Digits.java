@@ -19,6 +19,7 @@ public class Digits {
 			num = s.nextInt();
 			counter = 0;
 		}
+		System.out.println("Thanks, goodbye");
 	}
 
 }
